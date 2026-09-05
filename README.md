@@ -1,18 +1,18 @@
 # Hello World
 
 ## Overview
+As a software engineer, I am building a strong foundation in Java programming by creating simple programs that reinforce core programming concepts. This project demonstrates how to write, compile, and run a Java application using a professional development workflow with Visual Studio Code, Git, and GitHub.
 
-This project is my first CSE 310 assignment. It demonstrates that my Java development environment is working correctly and shows how to publish a project to GitHub.
+The software is a Java console application that prints a "Hello World" message along with a personalized greeting to the screen.
 
-The program prints "Hello World" and a short greeting.
-
+The purpose of creating this software is to become familiar with the Java development environment, practice compiling and executing Java programs from the command line, and build confidence using version control with Git and GitHub.
 **Video Demo:**  
-()
+https://youtu.be/oKYdiusV2CE
 
 ## Development Environment
 
 - Visual Studio Code
-- Java JDK
+- Eclipse Adoptium OpenJDK 25
 - Git
 - GitHub
 
